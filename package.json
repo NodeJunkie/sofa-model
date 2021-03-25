@@ -21,7 +21,7 @@
     "bluebird": "^3.7.2",
     "deepmerge": "^4.2.2",
     "validate.js": "^0.13.1",
-    "validator": "^13.0.0"
+    "validator": "^13.5.2"
   },
   "devDependencies": {
     "chai": "^4.2.0",
